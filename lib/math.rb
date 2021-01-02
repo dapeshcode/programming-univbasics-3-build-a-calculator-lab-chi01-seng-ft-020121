@@ -28,10 +28,3 @@ def square_root(num)
   result
 end
 
-def basic_calculator(num1, num2)
-  addition(num1, num2)
-  subtraction(num1, num2)
-  division(num1, num2)
-end 
-
-puts basic_calculator(4, 4)
