@@ -34,4 +34,4 @@ def basic_calculator(num1, num2)
   division(num1, num2)
 end 
 
-basic basic_calculator(4, 4)
+basic_calculator(4, 4)
