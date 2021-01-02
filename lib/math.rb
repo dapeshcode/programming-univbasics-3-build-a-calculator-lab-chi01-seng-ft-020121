@@ -27,3 +27,7 @@ def square_root(num)
   result = Math.sqrt(num)
   result
 end
+
+def basic_calculator(num1, num2)
+  addition(num1, num2)
+  subtraction(num1. )
